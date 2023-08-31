@@ -83,6 +83,6 @@ Jaein. Es können Clans angelegt  werden, die mehrere Spieler beinhalten. Es ste
 ### Das Endportal geht nicht!
 Du bist zu schnell. Der Enderdrache wird gemeinsam als Community erledigt und wäre für dich allein auch zu schwer (vertrau uns). Ein Termin für dieses Abenteuer wird von Jamie bekannt gegeben und hängt hauptsächlich von Lust und Laune ab.
 ### Ich wurde gekickt, als ich kurz weg war!
-Wir haben ein Afk-kick-System eingerichtet. Übrigens: Dies zu ungehen ist verboten (siehe Regeln).
+Wir haben ein Afk-kick-System eingerichtet. Übrigens: Dies zu umgehen ist verboten (siehe Regeln).
 ### Kann ich mit Minecraft: Bedrock Edition mitspielen?
 **Ja.** Zum Whitelisten und für Verbindungseinstellungen bitte mit **CodeSalat** in Verbindung treten und **nicht den Befehl im Twitch-Chat nutzen.** Die Integration von Bedrock Edition in JamieSMP ist experimentell und eventuell nicht stabil. Wir können daher leider keine Garantie geben, dass die Erfahrung gleich gut ist wie mit Java Edition.
