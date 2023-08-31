@@ -47,7 +47,7 @@
 - Clocks, also Schaltungen, die sich selbst über einen längeren Zeitraum oder endlos immer wieder aktivieren sind strengstens **verboten**, da sie negativen Einfluss auf die Leistung des Servers nehmen.
 ### 4.4 Anti-AFK-Maschinen
 - Schaltungen und Maschinen die der Umgehung des AFK-Kick dienen sind strengstens **verboten**!
----
+
 # Frequently Asked Questiones
 ### Was ist JamieSMP?
 Jamie's SMP (Survival Multiplayer) ist ein Minecraft Server, auf dem Vanilla gespielt wird (keine großen Veränderungen von Spielmechaniken). Es gilt zum größten Teil dem gemeinschaftlichen Bauen zusammen mit Jamie.
