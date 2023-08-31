@@ -57,7 +57,7 @@
 ### 4.4 Anti-AFK-Maschinen
 - Schaltungen und Maschinen die der Umgehung des AFK-Kick dienen sind strengstens **verboten**!
 
-# Frequently Asked Questiones
+# Frequently Asked Questions
 ### Was ist JamieSMP?
 Jamie's SMP (Survival Multiplayer) ist ein Minecraft Server, auf dem Vanilla gespielt wird (keine großen Veränderungen von Spielmechaniken). Es gilt zum größten Teil dem gemeinschaftlichen Bauen zusammen mit Jamie.
 ### Welche Version von Minecraft: Java Edition brauche ich?
