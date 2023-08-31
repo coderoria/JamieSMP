@@ -5,6 +5,7 @@
 - Ein User kann nur einen Spieler whitelisten.
 - Jeder User muss eine Stunde Follower von Jamie sein, um sich whitelisten zu können. Ausnahmen gibt es keine.
 - Wenn Jamie offline ist, ist das Whitelisting nicht möglich.
+
 ### 1.2 Accounts, Server & Spielmechanik
 - Das Benutzen mehrerer Accounts zur Umgehung von Bann-Strafen ist selbstverständlich untersagt und wird umgehend und diskussionslos mit unbefristetem Bann aller Accounts des Spielers geahndet.
 - Das Umgehen des AFK-Kick in jeglicher Art und Weise ist verboten.
