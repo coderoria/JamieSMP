@@ -11,6 +11,7 @@
 - Das Umgehen des AFK-Kick in jeglicher Art und Weise ist verboten.
 - Das Spiel beeinträchtigende oder verändernde Modifikationen (z. B. Flymod, X-Ray, etc.) und Hacktools, sowie das Ausnutzen von Bugs und Glitches zum eigenen Vorteil ist nicht erlaubt und wird hart bestraft.
 - Respektiere andere Spieler und ihre Gebäude, jeder ist einzigartig! Also schätze deine Mitspieler und verhalte dich angemessen ihnen gegenüber. Beleidige weder sie noch ihre Bauwerke, denn jeder hat einen anderen Geschmack und eine andere Vorstellung seiner „perfekten Welt“. Rassistische sowie sexistische Inhalte sind bei uns verboten.
+
 ### 1.3 Umgang
 - Respektiert eure Mitspieler, unabhängig vom Alter und sonstigen Faktoren.
 - Im öffentlichen Chat wird ein niveauvoller Umgang miteinander gepflegt. Unterhaltungen werden in verständlicher Sprache geführt. Die Serversprache ist Deutsch.
@@ -19,12 +20,15 @@
 - Fremdwerbung, insbesondere für andere Minecraft-Server und Communitys ist verboten, ebenso das Abwerben von Spielern oder Teammitgliedern.
 - Rassistische Äußerungen, Skins, Bauwerke und Symbole, sowie das Verbreiten verfassungsfeindlichen Gedankenguts sind strengstens verboten und werden diskussionslos mit permanentem Bann geahndet.
 - Anstößige Skins, Usernamen und Bauten sind verboten und können bei Nichtänderung mit Bann geahndet werden.
+
 ### 1.4 Grief
 - Schädigung von Mitspielern, egal aus welchem Grund, ist nicht erlaubt. (Zerstören, Verunstalten, Töten fremden Eigentums). Auch Landschaftsverunstaltungen sind nicht erwünscht.
 - Griefing auf ungeschützte Bauwerke ist **erlaubt**, solange nicht ersichtlich ist, dass ein Spieler zu diesem Zeitpunkt dabei ist, dieses Bauwerk zu sichern. **Also erst Gebiet sichern, dann bauen!**
 - Diebstahl aus ungeschützten Truhen und das Behalten des Inventars verstorbener Spieler ist **erlaubt**. Das gilt auch für verlassene Bauruinen oder Kisten gebannter oder inaktiver Spieler.
+
 ### 1.5 PVP
 - Das Töten anderer Spieler ohne deren Zustimmung, sowie der Bau von Todesfallen/Spielerfallen und Schaden bzw. Tod verursachenden, senkrechten Gruben sind untersagt.
+
 ## 2. Bauen
 ### 2.1 Private Grundstücke
 - Auf dem eigenen, privaten Grundstück ist das Farmen erlaubt.
@@ -32,19 +36,24 @@
 - Ungesicherte Bauten sind nicht gern gesehen, da sie nicht vor Grief geschützt sind und somit zu unnötigen Problemen führen können. Daher gilt: erst Region sichern, dann bauen.
 - Halte genug Abstand ein. Das bezieht sich auch auf den Spawn, aber hauptsächlich auf die anderen Spieler. Baue weit genug von ihnen entfernt (Richtwert sind 32 Blöcke also 2 Chunks), sodass du, sowie auch die anderen noch die Möglichkeit habt euer Gebiet zu vergrößern. Es nützt nichts, wenn man seine Pläne nicht verwirklichen kann, weil man umzingelt ist von anderen Spielern. Wenn du trotzdem gern in der Nähe von jemandem bauen möchtest, frage ihn zuerst.
 - Das Claimen von Strongholds ist verboten
+
 ## 3. Farming
 - Das Farmen ist erlaubt, wo kein Grundstück liegt.
 - Das Erbauen von automatischen Farmen ist verboten, wenn es gegen eine der anderen Regeln verstößt.
 - Schatzkarten sind deaktiviert.
 - Massentierhaltung ist verboten. Dies gilt auch für andere mobs.
 - Farmen oberhalb des Nethers sind **erlaubt**, solange sie gegen keine andere Regel verstoßen.
+
 ## 4. Redstone
 ### 4.1 Kolben
 - Die gleichzeitige Aktivierung vieler Kolben kann auf dem Server Laggs verursachen. Daher dürfen maximal **16 Kolben** gleichzeitig aus- bzw. eingefahren werden. Grundsätzlich dürfen nur **16 Blöcke** gleichzeitig verschoben werden.
+
 ### 4.2 Sortieranlagen
 - Sortieranlagen bedienen sich meist einer Vielzahl von Trichtern, ggf. dauerhaft fahrender Loren und unter Umständen weiterer, komplexer Schaltungen und sind daher grundsätzlich **verboten**.
+
 ### 4.3 Clocks
 - Clocks, also Schaltungen, die sich selbst über einen längeren Zeitraum oder endlos immer wieder aktivieren sind strengstens **verboten**, da sie negativen Einfluss auf die Leistung des Servers nehmen.
+
 ### 4.4 Anti-AFK-Maschinen
 - Schaltungen und Maschinen die der Umgehung des AFK-Kick dienen sind strengstens **verboten**!
 
