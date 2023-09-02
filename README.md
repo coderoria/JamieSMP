@@ -25,6 +25,7 @@
 - Schädigung von Mitspielern, egal aus welchem Grund, ist nicht erlaubt. (Zerstören, Verunstalten, Töten fremden Eigentums). Auch Landschaftsverunstaltungen sind nicht erwünscht.
 - Griefing auf ungeschützte Bauwerke ist **erlaubt**, solange nicht ersichtlich ist, dass ein Spieler zu diesem Zeitpunkt dabei ist, dieses Bauwerk zu sichern. **Also erst Gebiet sichern, dann bauen!**
 - Diebstahl aus ungeschützten Truhen und das Behalten des Inventars verstorbener Spieler ist **erlaubt**. Das gilt auch für verlassene Bauruinen oder Kisten gebannter oder inaktiver Spieler.
+- Aufsammeln von Playerloot ist nur dann erlaubt, wenn der Spieler durch Pvp gestorben ist.
 
 ### 1.5 PVP
 - Das Töten anderer Spieler ohne deren Zustimmung, sowie der Bau von Todesfallen/Spielerfallen und Schaden bzw. Tod verursachenden, senkrechten Gruben sind untersagt.
